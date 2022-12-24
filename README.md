@@ -6,6 +6,7 @@
 📌 Typescript  
 📌 Clean Architechture 
 📌 TDD
+📌 OOP
 
 <!--
 **AntonioliBenjamin/AntonioliBenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
