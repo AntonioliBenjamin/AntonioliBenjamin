@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Back-end developer
 
 💻 what defines me best in my projects: 💻
 
