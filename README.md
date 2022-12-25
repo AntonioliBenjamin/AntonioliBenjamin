@@ -1,4 +1,4 @@
-![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/AntonioliBenjamin/AntonioliBenjamin/blob/main/img/blog-banner-Is-your-Node.js-application-production-ready-scaled.jpg)
+![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/AntonioliBenjamin/AntonioliBenjamin/blob/main/nodejs-banner.jpg)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Antonioli Benjamin.</h1>
 <h3 align="center">Just a back-end developer.</h3>
 
