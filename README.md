@@ -13,6 +13,10 @@
 - 🌱 I’m currently learning **Fastify**
 
 - 📫 How to reach me **benantonioli@outlook.fr**
+
+<br>
+<br>
+<br>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
