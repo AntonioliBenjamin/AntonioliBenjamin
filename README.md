@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Sweet](https://github.com/AntonioliBenjamin/Sweet)
 
-- 🌱 I’m currently learning **Fastify**
+- 🌱 I’m currently learning **Clean Architecture**
 
 - 📫 How to reach me **benantonioli@outlook.fr**
 
