@@ -8,15 +8,11 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on [foodie](https://github.com/BlackDagger007/foodie)
+- 🔭 I’m currently working on [Swett](https://github.com/AntonioliBenjamin/Sweet)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Fastify**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
-
-- 💬 Ask me about **flutter, firebase, nodejs**
-
-- 📫 How to reach me **mailwahab247@gmail.com**
+- 📫 How to reach me **benantonioli@outlook.fr**
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
