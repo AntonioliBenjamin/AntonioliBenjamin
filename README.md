@@ -11,7 +11,7 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on [Swett](https://github.com/AntonioliBenjamin/Sweet)
+- 🔭 I’m currently working on [Sweet](https://github.com/AntonioliBenjamin/Sweet)
 
 - 🌱 I’m currently learning **Fastify**
 
