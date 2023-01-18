@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [POV](https://github.com/AntonioliBenjamin/Sweet)
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Fastify**
 
 - 📫 How to reach me **benantonioli@outlook.fr**
 
