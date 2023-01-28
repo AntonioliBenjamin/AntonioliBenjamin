@@ -11,7 +11,7 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on [DDD-Messaging-Bus](https://github.com/AntonioliBenjamin/Sweet)
+- 🔭 I’m currently working on [DDD-Messaging-Bus](https://github.com/AntonioliBenjamin/DDD-messaging-bus)
 
 - 🌱 I’m currently learning **Fastify**
 
