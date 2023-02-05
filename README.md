@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [DDD-Messaging-Bus](https://github.com/AntonioliBenjamin/DDD-messaging-bus)
 
-- 🌱 I’m currently learning **Fastify**
+- 🌱 I’m currently learning **Nest.js**
 
 - 📫 How to reach me **benantonioli@outlook.fr**
 
