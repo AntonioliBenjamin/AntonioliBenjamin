@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Nest.js**
 
-- 📫 How to reach me **benantonioli@outlook.fr**
+- 📫 How to reach me **benjamin.antonioli@x-squad.com**
 
 <br>
 <br>
