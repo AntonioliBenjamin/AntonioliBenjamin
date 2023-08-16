@@ -12,7 +12,7 @@
   </p>
 
 - 🔭 I’m currently working with [CRESH](https://github.com/cresh-io)
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Adonis.js**
 - 📫 How to reach me **benjamin.antonioli@x-squad.com**
 
 <br>
