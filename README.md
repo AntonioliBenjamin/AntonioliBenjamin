@@ -1,8 +1,6 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/AntonioliBenjamin/AntonioliBenjamin/blob/main/nodejs-banner.jpg)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
