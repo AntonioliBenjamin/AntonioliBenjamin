@@ -4,8 +4,6 @@
           
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Antonioli Benjamin.</h1>
 <h3 align="center">Node.js developer.</h3>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdagger007&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
  
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
