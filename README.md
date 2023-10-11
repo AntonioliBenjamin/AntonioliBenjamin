@@ -10,8 +10,8 @@
   </p>
 
 - 🔭 I’m currently working with [X-SQUAD](https://x-squad.com/)
-- 🌱 I’m currently learning **Adonis.js**
-- 📫 How to reach me **benjamin.antonioli@x-squad.com**
+- 🌱 I’m currently learning **React.js**
+- 📫 How to reach me **benantonioli@outlook.fr**
 
 <br>
 <br>
