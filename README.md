@@ -1,5 +1,3 @@
-![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/AntonioliBenjamin/AntonioliBenjamin/blob/main/nodejs-banner.jpg)
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  
 <div style="display:flex">
